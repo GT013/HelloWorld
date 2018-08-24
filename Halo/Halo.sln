@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Halo", "Halo\Halo.csproj", "{DCC39879-B6F0-44CA-828C-B27744C4D40D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCC39879-B6F0-44CA-828C-B27744C4D40D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCC39879-B6F0-44CA-828C-B27744C4D40D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCC39879-B6F0-44CA-828C-B27744C4D40D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCC39879-B6F0-44CA-828C-B27744C4D40D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A6F30E3-7849-4822-A092-C68C6A1588C1}
+	EndGlobalSection
+EndGlobal
